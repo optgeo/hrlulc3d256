@@ -17,7 +17,7 @@ sources:
     tiles:
       - https://x.optgeo.org/et10b/et256/{z}/{x}/{y}.webp
     tileSize: 256
-    maxzoom: 12
+    maxzoom: 14
   v: 
     type: vector
     minzoom: #{MINZOOM}
